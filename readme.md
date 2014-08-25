@@ -1,4 +1,5 @@
 (a full spec and mockup is in the root directory)
+
 we need a slider/progressbar that will control and display a dynamic timeline that represents the work on stages within a given timeframe.
 
 basic flow:
